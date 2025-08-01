@@ -1,2 +1,2 @@
-# AdDesign
-Ad design using Javascript and JSProcessing
+# Khan Academy-AdDesign Project
+Design an animated Ad using Javascript and JSProcessing
